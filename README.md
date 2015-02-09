@@ -14,9 +14,9 @@ and [EAC-CPF](http://eac.staatsbibliothek-berlin.de) standards.
         * [generalContext](https://github.com/snac-pilot/data-model/wiki/generalContext)
         * [occupation](https://github.com/snac-pilot/data-model/wiki/occupation)
         * [localDescription](https://github.com/snac-pilot/data-model/wiki/localDescription)
-      * relations [ISAAR (CPF) 5.3] ↴
-        * [cpfRelation](https://github.com/snac-pilot/data-model/wiki/cpfRelation)
-        * [resourceRelation](https://github.com/snac-pilot/data-model/wiki/resourceRelation)
+      * [relations](https://github.com/snac-pilot/data-model/wiki/relations) [ISAAR (CPF) 5.3] ↴
+        * cpfRelation
+        * resourceRelation
 
  * Location of Archival Materials and Other Resources (create EAC-CPF for each location with archival collections?)
    * [locations](https://github.com/snac-pilot/data-model/wiki/locations)
