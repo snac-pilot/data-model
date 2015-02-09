@@ -1,6 +1,8 @@
 # SNAC Data Model
 
-The SNAC data model is based on ISSAR(CPF) and EAC-CPF standards.
+The SNAC data model is based on
+[ISSAR(CPF)](http://www.ica.org/10203/standards/isaar-cpf-international-standard-archival-authority-record-for-corporate-bodies-persons-and-families-2nd-edition.html)
+and [EAC-CPF](http://eac.staatsbibliothek-berlin.de) standards.
 
  * eac-cpf	↴		
     * [control](https://github.com/snac-pilot/data-model/wiki/control) [ISAAR (CPF) 5.4]
