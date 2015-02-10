@@ -29,4 +29,5 @@ and [EAC-CPF](http://eac.staatsbibliothek-berlin.de) standards.
 
  * indexes, caches, auxiliary databases
   * [XML](https://github.com/snac-pilot/data-model/wiki/xml)
-  * [XTF](https://github.com/snac-pilot/xtf-reindex-queue)
+  * [XTF](https://github.com/snac-pilot/data-model/wiki/xtf)
+  * [Rexster](https://github.com/snac-pilot/data-model/wiki/rex)
